@@ -1,2 +1,2 @@
 # Java_Fundamentals
-I'm learnig Java
+I'm learning Java
