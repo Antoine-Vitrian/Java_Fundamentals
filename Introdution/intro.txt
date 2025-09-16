@@ -6,3 +6,5 @@ Onde atributos seriam as características de um objeto e métodos as ações
 - Encapsulamento: programar em partes, para o código ficar flexível para alterações e proteger atributos e métodos de uma classe
 - Hierarquia: uma classe filho recebe todas as informções da classe pai
 - Modularização: dividir o código em partes bem definidas e claras para reutilização
+
+Linguagem altamente tipada
