@@ -64,6 +64,26 @@ public class TiposDados {
         x--;
         System.out.println(x);
 
+        // operadores de igualdade/relação
+        // == -> igual
+        // != -> diferente
+        // >, <, >=, <=
+
+        // operadores lógicos
+        // AND --> &&
+        // OR --> ||
+        // NOT --> !
+        // XOR --> ^
+
+        // Condicionais
+        if(x > 10){
+            System.out.println("X é maior que 10");
+        } else if(x == 10) {
+            System.out.println("X é igual a 10");
+        } else {
+            System.out.println("X é menor que 10");
+        }
+
     }
 }
 
