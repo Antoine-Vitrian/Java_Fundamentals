@@ -64,6 +64,16 @@ public class TiposDados {
         x--;
         System.out.println(x);
 
+        System.out.println("oi");
+        int a1 = 1;int a2 = 2; int a3= 2;
+        a1 = a2--;
+        System.out.println(a1);
+        System.out.println(a2);
+        a1 = --a3;
+        System.out.println(a1);
+        System.out.println(a3);
+
+
         // operadores de igualdade/relação
         // == -> igual
         // != -> diferente
