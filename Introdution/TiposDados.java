@@ -6,12 +6,12 @@ public class TiposDados {
         // 1.int, 2.short, 3.long, 4.byte
         // 5.float: números decimais
         // 6.double: mais preciso que float - mais utilizado
-        // 7.char: caracteres
+        // 7.char: apenas um caractere
         // 8.boolean: True or False
 
         int idade = 10;
         double preco = 10.0;
-        char sexo = 'M';
+        char sexo = 'M'; 
         boolean maiorIdade = false;
 
         System.out.println(idade);
@@ -83,6 +83,12 @@ public class TiposDados {
         } else {
             System.out.println("X é menor que 10");
         }
+
+        // Conversão
+        // É necessário outra variável
+        double ab = 9.99;
+        int bc = (int) ab;
+        System.out.println(bc);
 
     }
 }
