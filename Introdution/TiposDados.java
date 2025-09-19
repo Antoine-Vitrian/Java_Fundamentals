@@ -57,8 +57,8 @@ public class TiposDados {
         System.out.println(x);
 
         // operadores de incremento
-        // x++ = x + 1
-        // x-- = x - 1
+        // x++ = x + 1 = ++x
+        // x-- = x - 1 = --x
         x++;
         System.out.println(x);
         x--;
