@@ -11,6 +11,12 @@ public class Input {
         int n2 = sc.nextInt();
         System.out.println("Soma: " + n1 +"+"+ n2 + " igual a " + (n1+n2));
 
+        sc.nextLine();
+
+        System.out.print("Digite seu nome: ");
+        String nome = sc.nextLine();
+        System.out.println(nome);
+
         sc.close();
     }
 }
